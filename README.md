@@ -41,8 +41,8 @@
 - 24년 12월 참가, backend 포지션
 - docker, k8s, backend(java(spring), maridb)
 - GIT:https://github.com/GoormTago
-- 결과물: <a href="https://goormtago.qook.io/") target="_blank">https://goormtago.qook.io</a>
-- API: <a href="https://goormtago.qook.io/api") target="_blank">https://goormtago.qook.io/api</a>
+- 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
+- API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
 
 
 <!--
