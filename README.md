@@ -19,14 +19,15 @@
 -----
 
 ### Study Server Infra 
-|CLOUD|Region|OS|Description|ETC|
-|:------:|:-------:|:------:|:------------------------------------:|:--------------------------:|
-|OCI|SEOUL|Rokcy|||
-|OCI|SEOUL|OracleLinux|docker compose ( spring boot 2개 + ngnix) |<a href="https://thing.qook.io/" target="_blank">thing.qook.io</a>  tiing-amdin.qook.io|
-|OCI|Osaka|Rokcy|해커톤 프로젝트 dokcer(spring boot, react-node, Nginx)|<a href="https://goormtago.qook.io/" target="_blank">goormtago.qook.io</a> |
-|OCI|Osaka|OracleLinux|Nginx(domain 3개 정적 리소스 연결, spring boot, nodejs web||<a href="https://java-web.qook.io" target="_blank">java-web.qook.io</a>, <a href="https://js-web.qook.io" target="_blank">js-web.qook.io</a>|
-|GCP|US-West|Rocky|||
-|GCP|US-Central|Ubuntu|||
+|Cloud|Region|Type|OS|Spec|Description|ETC|
+|:------:|:--------:|:---:|:-------:|:-------:|:------------------------------------|:--------------------------|
+|OCI|SEOUL|VM|Rokcy|1core 1gb|mysql(thing/goormtago) ||
+|OCI|SEOUL|VM|OracleLinux|1core 1gb|docker compose ( spring boot 2개 + ngnix) |<a href="https://thing.qook.io/" target="_blank">thing.qook.io</a></br> thing-amdin.qook.io|
+|OCI|SEOUL|DB|Oracle 19C| 19c instance|DB-thing|
+|OCI|Osaka|VM|Rokcy|1core 1gb|해커톤 프로젝트 dokcer(spring boot, react-node, Nginx)|<a href="https://goormtago.qook.io/" target="_blank">goormtago.qook.io</a> |
+|OCI|Osaka|VM|OracleLinux|1core 1gb|Nginx(domain 3개 정적 리소스 연결,</br> spring boot, nodejs web|<a href="https://java-web.qook.io" target="_blank">java-web.qook.io</a><br><a href="https://js-web.qook.io" target="_blank">js-web.qook.io</a><br><a href="https://ato.qook.io" target="_blank">ato.qook.io</a><br><a href="https://yanix.qook.io" target="_blank">yanix.qook.io</a><br><a href="https://inq.qook.io" target="_blank">inq.qook.io</a>|
+|GCP|US-West|VM|Rocky|2core 1gb|||
+|GCP|US-Central|VM|Ubuntu|2core 1gb||||
 
 ### Teaching experience 📑📑📑✏️✏️
 - 3D프린팅(FDM, cura, 셋팅)
