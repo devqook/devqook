@@ -18,13 +18,13 @@
 |연수생   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |<a href="https://github.com/ittapa/AIFFEL_LSG" target="_blank">Link</a>|
 -----
 
-### Server Infra
+### Study Server Infra 
 |CLOUD|Region|OS|Description|ETC|
-|:------:|:------:|:-----:|:---------------------------------:|:----------------------:|
-|OCI|SEOUL|Rokcy|Nginx(domain 3개 정적 리소스 연결, spring boot, nodejs web|js.qook.io|
-|OCI|SEOUL|OracleLinux|docker compose ( spring boot 2개 + ngnix) ||thing.qook.io  tiing-amdin.qook.io|
-|OCI|Osaka|Rokcy|||
-|OCI|Osaka|OracleLinux|||
+|:------:|:-------:|:------:|:------------------------------------:|:--------------------------:|
+|OCI|SEOUL|Rokcy|||
+|OCI|SEOUL|OracleLinux|docker compose ( spring boot 2개 + ngnix) |<a href="https://thing.qook.io/" target="_blank">thing.qook.io</a>  tiing-amdin.qook.io|
+|OCI|Osaka|Rokcy|해커톤 프로젝트 dokcer(spring boot, react-node, Nginx)|<a href="https://goormtago.qook.io/" target="_blank">goormtago.qook.io</a> |
+|OCI|Osaka|OracleLinux|Nginx(domain 3개 정적 리소스 연결, spring boot, nodejs web||<a href="https://java-web.qook.io" target="_blank">java-web.qook.io</a>, <a href="https://js-web.qook.io" target="_blank">js-web.qook.io</a>|
 |GCP|US-West|Rocky|||
 |GCP|US-Central|Ubuntu|||
 
