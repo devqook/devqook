@@ -17,6 +17,17 @@
 |개발PM   |자사 공식홈페이지 제작   |아토플래닛|2019.01~<br/>2019.02|nodejs,ejs,maridb,html,css,js |<a href="https://ato.qook.io" target="_blank">Link</a> |
 |연수생   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |<a href="https://github.com/ittapa/AIFFEL_LSG" target="_blank">Link</a>|
 -----
+
+### Server Infra
+|CLOUD|Region|OS|Description|ETC|
+|:------:|:------:|:-----:|:---------------------------------:|:----------------------:|
+|OCI|SEOUL|Rokcy|Nginx(domain 3개 정적 리소스 연결, spring boot, nodejs web|js.qook.io|
+|OCI|SEOUL|OracleLinux|docker compose ( spring boot 2개 + ngnix) ||thing.qook.io  tiing-amdin.qook.io|
+|OCI|Osaka|Rokcy|||
+|OCI|Osaka|OracleLinux|||
+|GCP|US-West|Rocky|||
+|GCP|US-Central|Ubuntu|||
+
 ### Teaching experience 📑📑📑✏️✏️
 - 3D프린팅(FDM, cura, 셋팅)
 - 3D모델링(123D design, fusion360, thinkercad)
@@ -25,6 +36,15 @@
 - 라즈베리파이
 - 인공지능 스피커 만들기
 - 메이커 워크샵
+
+
+
+### 9oormthon 해커톤
+- 24년 12월 참가, backend 포지션
+- docker, k8s, backend(java(spring), maridb)
+- GIT:https://github.com/GoormTago
+- 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
+- API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
 
 ### HackerThon ready
 #### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
@@ -36,20 +56,8 @@
 - AWS EC2 linux Server / Oracle CLoud compute (mysql)
 - ngnix ssl, port 포워딩
 <br/>
-
-### 9oormthon 해커톤
-- 24년 12월 참가, backend 포지션
-- docker, k8s, backend(java(spring), maridb)
-- GIT:https://github.com/GoormTago
-- 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
-- API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
-
-
 <!--
 **ittapa/ittapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 
 
 
