@@ -32,11 +32,11 @@
 
 
 ### 9oormthon 해커톤
-- 24년 12월 참가, backend 포지션
-- docker, k8s, backend(java(spring), maridb)
-- GIT:https://github.com/GoormTago
-- 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
-- API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
+  - 24년 12월 참가, backend 포지션
+  - docker, k8s, backend(java(spring), maridb)
+  - GIT:https://github.com/GoormTago
+  - 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
+  - API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
 
   #### HackerThon ready
   #### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
@@ -55,8 +55,8 @@
 ###  Completion of training
 | 구분 | 제목 | 소속 | 기간 | 사용기술  | etc|
 |:---:|:----------:|:------:|:------:|:-----:|:-------:|
-|연수생   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sql|<a href="https://github.com/ittapa/Tippingpoint" target="_blank">Link</a>|
-|연수생   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |<a href="https://github.com/ittapa/AIFFEL_LSG" target="_blank">Link</a>|
+|연수   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sql|<a href="https://github.com/ittapa/Tippingpoint" target="_blank">Link</a>|
+|연수   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |<a href="https://github.com/ittapa/AIFFEL_LSG" target="_blank">Link</a>|
 
 
 
