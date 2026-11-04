@@ -20,14 +20,6 @@
 |GCP|US-West|VM|Rocky|2core 1gb|||
 |GCP|US-Central|VM|Ubuntu|2core 1gb||||
 
-### Teaching experience 📑📑📑✏️✏️
-- 3D프린팅(FDM, cura, 셋팅)
-- 3D모델링(123D design, fusion360, thinkercad)
-- 3D펜
-- 아두이노
-- 라즈베리파이
-- 인공지능 스피커 만들기
-- 메이커 워크샵
 
 
 
@@ -38,7 +30,7 @@
   - 결과물: <a href="https://goormtago.qook.io/" target="_blank">https://goormtago.qook.io</a>
   - API: <a href="https://goormtago.qook.io/api" target="_blank">https://goormtago.qook.io/api</a>
 
-  #### HackerThon ready
+  #### ready for HackerThon 
   #### Backend Server ( Java-spring-tomcat / JS-NODEJS-Express) - DB(Mysql / Mariadb)
   #### Sample
   | 구&nbsp;&nbsp;분 | Git Hub | URL |
@@ -58,6 +50,14 @@
 |연수   |java 전자정부 프레임워크<br/> 개발자 양성과정|KOSTA|2015.07~<br/>2015.12|java,spring,html,css,js,mybtis,oracle,sql|<a href="https://github.com/ittapa/Tippingpoint" target="_blank">Link</a>|
 |연수   |AIFFEL-1기 <br/> 영상처리반|모두연구소|2020.08~<br/>2020.12|ai,python,tensorflow  |<a href="https://github.com/ittapa/AIFFEL_LSG" target="_blank">Link</a>|
 
+### Teaching experience 📑📑📑✏️✏️
+- 3D프린팅(FDM, cura, 셋팅)
+- 3D모델링(123D design, fusion360, thinkercad)
+- 3D펜
+- 아두이노
+- 라즈베리파이
+- 인공지능 스피커 만들기
+- 메이커 워크샵
 
 
 
