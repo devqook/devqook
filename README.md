@@ -1,6 +1,6 @@
-### Hi there 👋🐑🐑🐑🐑🐑
+## Hi there 👋🐑🐑🐑🐑🐑
 
-### Work Experience  🏆🏆🏆🏆
+## Work Experience  🏆🏆🏆🏆
 | 기&nbsp;&nbsp;간 | 소&nbsp;&nbsp;속 | 부&nbsp;&nbsp;서 | 직&nbsp;&nbsp;무 | 사용기술  |
 |:------:|:----:|:-------:|:-------:|:-------:|
 | 2016.05<br/>~ 2020.02 | 아토 플래닛    | 콘텐츠개발팀 | 웹 개발, 코딩교육콘텐츠 제작, <br/>용역사업수주 및 사업관리, <br/>강의, 경영(인사, 회계, 시스템관리) | tomcat, node, Java, springboot, <br/>aws, js, css, html|
@@ -9,7 +9,7 @@
 
 -----
 
-### Study Server Infra 
+## Study Server Infra 
 |Cloud|Region|Type|OS|Spec|Description|ETC|
 |:------:|:--------:|:---:|:-------:|:-------:|:------------------------------------|:--------------------------|
 |OCI|SEOUL|VM|Rokcy|1core 1gb|mysql(thing/goormtago) ||
@@ -22,6 +22,17 @@
 
 
 
+## Projects
+
+### Qook VQD · 국내 주식 분석 대시보드
+
+한국투자증권 시세와 OpenDART 재무 데이터를 연동해 코스피·코스닥에서 최대 30개 후보 종목을 선별하고, 종목별 가치·퀄리티·배당 지표를 비교합니다.
+
+- **Web** · Next.js 15, React 19, TypeScript
+- **DB** · Supabase (PostgreSQL)에 종목별 시세 이력을 저장하고 재무평가 결과를 캐싱
+- **Cloud** · Vercel 배포
+
+[서비스 보기](https://qook-vqd.vercel.app/) · [GitHub](https://github.com/qooklab/qook-vqd)
 
 ### 9oormthon 해커톤
   - 24년 12월 참가, backend 포지션
